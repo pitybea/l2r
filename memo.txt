@@ -1,0 +1,3 @@
+memo： 记下准备材料的过程中想了什么，参考了什么，推荐系统的评价离不开ndcg这个标准
+
+https://gist.github.com/bwhite/3726239
